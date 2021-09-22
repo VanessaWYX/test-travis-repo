@@ -1,0 +1,36 @@
+-- insert into accountData(
+-- 	friend_email, password, profile_name, date_started, num_of_friends
+-- ) values	
+-- 	('manjot@gmail.com', '002', 'manjot', '2018-09-26', 2),
+-- 	('amarjot@gmail.com', '003', 'amarjot', '2018-08-18', 2),
+-- 	( 'ekjot@gmail.com', '004', 'ekjot', '2018-01-22', 1),
+-- 	( 'kulneet@gmail.com', '005', 'kulneet', '2018-01-13', 3),
+-- 	( 'manveer@gmail.com', '006', 'manveer', '2019-02-18', 5),
+-- 	( 'jaideep@gmail.com', '007', 'jaideep', '2019-04-16', 1),
+-- 	( 'gurkeerat@gmail.com', '008', 'gurkeerat', '2017-09-11', 1),
+-- 	( 'rajvansh@gmail.com', '009', 'rajvansh', '2017-05-29', 1),
+-- 	( 'aditya@gmail.com', '010', 'aditya', '2020-07-08', 1);
+	
+--  insert into myfriends(
+-- 	friend_id1, friend_id2
+-- ) values
+-- 	(1, 2),
+-- 	(1, 3),
+-- 	(1, 4),
+-- 	(2, 1),
+-- 	(2, 5),
+-- 	(3, 1),
+-- 	(3, 5),
+-- 	(4, 1),
+-- 	(5, 2),
+-- 	(5, 3),
+-- 	(5, 6),
+-- 	(6, 5),
+-- 	(6, 10),
+-- 	(6, 9),
+-- 	(6, 8),
+-- 	(6, 7),
+-- 	(7, 6),
+-- 	(8, 6),
+-- 	(9, 6),
+-- 	(10, 6);
