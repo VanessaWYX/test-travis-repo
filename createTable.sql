@@ -8,10 +8,10 @@ create TABLE accountData (
         PRIMARY KEY (friend_id)
         );
 
--- create TABLE myfriends(
--- 	friend_id1 int not null,
--- 	friend_id2 int not null
--- );
+create TABLE myfriends(
+	friend_id1 int not null,
+	friend_id2 int not null
+);
 
--- drop TABLE account;
+
 
