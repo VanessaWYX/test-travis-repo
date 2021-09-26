@@ -39,10 +39,6 @@
 	Email: <a href="mailto:101951824@student.swin.edu.au">101951824@student.swin.edu.au</a>
 </p>
 
-<p>
-	I declare that this assignment is my individual work. I have not worked collaboratively nor have I copied from any other student’s work or from any other source.
-</p>
-
 <?php
 
 $serverName = "tcp:dev-ops-server.database.windows.net,1433";
