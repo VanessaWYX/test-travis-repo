@@ -16,7 +16,6 @@
 	<!-- <a class = "btn" href = "index.php">Home Page</a> &nbsp; -->
 	<a class = "btn" href = "signup.php">Sign Up Page</a> &nbsp;
 	<a class = "btn" href = "login.php">Login Page</a> &nbsp;
-	<a class = "btn" id = "about" href = "about.php">About Page</a>
 </nav>
 
 <header>
