@@ -5,7 +5,7 @@ body{
 	margin-right: 3%;
 	margin-top: 3%;
 	position:relative;
-	background-color: rgb(198, 255, 255);
+	background-color: rgb(255, 255, 255);
 }
 
 form {
@@ -51,7 +51,7 @@ select{
 .answer{
 	position:relative;
 	margin-left: 6%;
-	color:rgb(255, 0, 212);
+	color:rgb(255, 0, 0);
 }
 	
 a{
