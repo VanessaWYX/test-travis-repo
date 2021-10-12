@@ -8,7 +8,7 @@
     <link href= "css/style.css" rel="stylesheet" />
 </head>
 <body>
-    <?php require_once "/calc/controller.php";?>
+    <?php require_once "calc/controller.php";?>
 
     <form method="post" >
         <table>
