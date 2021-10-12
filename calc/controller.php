@@ -1,4 +1,4 @@
-<?php require_once "./calculator.php";
+<?php require_once "calculator.php";
 
 $answer = "";
 
