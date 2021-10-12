@@ -40,7 +40,7 @@ jobs:
           path: .
 
       - name: PHPUnit (php-actions)
-        uses: php-actions/phpunit@v3 --testdox
+        uses: php-actions/phpunit@v3
         env:
           TEST_NAME: team20
         with:
