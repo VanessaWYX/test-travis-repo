@@ -16,7 +16,7 @@
       steps:
         - uses: actions/checkout@v2
         - uses: php-actions/composer@v3
-        - uses: php-actions/phpunit@v3.7.21
+        - uses: php-actions/phpunit@v3
   
         - name: Setup PHP
           uses: shivammathur/setup-php@v2
@@ -40,7 +40,7 @@
             path: .
             
         - name: PHPUnit (php-actions)
-          uses: php-actions/phpunit@v3.7.21
+          uses: php-actions/phpunit@v3
           env:
               TEST_NAME: team20
           with:
