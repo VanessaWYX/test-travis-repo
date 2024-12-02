@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>
-        Calculator App
+        Project Demo: Calculator App
     </title>
     <meta charset="utf-8">
     <link href= "css/style.css" rel="stylesheet" />
